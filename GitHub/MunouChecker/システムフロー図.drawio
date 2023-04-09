@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-09T17:55:46.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="1p06dJyhHmPLwDFRw-cQ" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-09T18:13:54.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="RRZ_ghM3OWJEgAdC3HkJ" version="21.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2011" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="YKjWRcPBZT_bttjxctFh-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YKjWRcPBZT_bttjxctFh-52" target="YKjWRcPBZT_bttjxctFh-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YKjWRcPBZT_bttjxctFh-52" value="各解答を Score に加算" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YKjWRcPBZT_bttjxctFh-52" value="各回答の得点を Score に加算" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="715" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YKjWRcPBZT_bttjxctFh-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YKjWRcPBZT_bttjxctFh-56" target="YKjWRcPBZT_bttjxctFh-39">
@@ -113,7 +113,7 @@
           <mxGeometry x="360" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YKjWRcPBZT_bttjxctFh-59" value="処理終了" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="1090" width="120" height="30" as="geometry" />
+          <mxGeometry x="360" y="1100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YKjWRcPBZT_bttjxctFh-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="YKjWRcPBZT_bttjxctFh-39">
           <mxGeometry relative="1" as="geometry">
