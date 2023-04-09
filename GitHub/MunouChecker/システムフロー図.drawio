@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-09T18:13:54.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="RRZ_ghM3OWJEgAdC3HkJ" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-09T18:18:21.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="wB8fsdas4KQyS3Ai_Jv6" version="21.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2011" dy="1164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2011" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -91,8 +91,8 @@
         <mxCell id="YKjWRcPBZT_bttjxctFh-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YKjWRcPBZT_bttjxctFh-43" target="YKjWRcPBZT_bttjxctFh-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YKjWRcPBZT_bttjxctFh-43" value="回答の得点を集計" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="920" width="120" height="60" as="geometry" />
+        <mxCell id="YKjWRcPBZT_bttjxctFh-43" value="Score に応じて対象グレードの&lt;br&gt;結果文をランダムに選択" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="920" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YKjWRcPBZT_bttjxctFh-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="YKjWRcPBZT_bttjxctFh-52">
           <mxGeometry relative="1" as="geometry">
